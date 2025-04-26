@@ -16,5 +16,5 @@ spec:
         - name: minidoc
           image: kalam1shadow/tomcat-task:latest
           ports:
-            - containerPort: 2020
+            - containerPort: 9090
   

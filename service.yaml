@@ -8,6 +8,6 @@ spec:
     app: tomcat
   ports:
     - port: 80
-      targetPort: 2020
+      targetPort: 9090
       nodePort: 30007
 
